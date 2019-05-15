@@ -1,0 +1,16 @@
+PODS:
+  - ZYNet (0.1.0)
+
+DEPENDENCIES:
+  - ZYNet (from `../`)
+
+EXTERNAL SOURCES:
+  ZYNet:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZYNet: e671c9a6b3c01b8bcede257fc6d228b2cf2b7b51
+
+PODFILE CHECKSUM: 9e80a170d061a4a0528897acf84e9e801bfd74eb
+
+COCOAPODS: 1.7.0.rc.1

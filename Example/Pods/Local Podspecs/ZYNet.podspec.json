@@ -1,0 +1,22 @@
+{
+  "name": "ZYNet",
+  "version": "0.1.0",
+  "summary": "A short description of ZYNet.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhouyu/ZYNet",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhouyu": "1512450002@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zhouyu/ZYNet.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZYNet/Classes/**/*"
+}
