@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZYNet_Example' do
+  pod 'ZYNet', :path => '../'
+
+  target 'ZYNet_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
